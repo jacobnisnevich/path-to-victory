@@ -1,0 +1,459 @@
+[
+	{
+		"date": "February 1, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Iowa",
+				"delegates": 52,
+				"difference": 0.06,
+				"sanders": 0.53,
+				"clinton": 0.47
+			}
+		]
+	}, 
+	{
+		"date": "February 9, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "New Hampshire",
+				"delegates": 32,
+				"difference": 0.29,
+				"sanders": 0.645,
+				"clinton": 0.355
+			}
+		]
+	},
+	{
+		"date": "February 20, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Nevada",
+				"delegates": 43,
+				"difference": -0.03,
+				"sanders": 0.485,
+				"clinton": 0.515
+			}
+		]
+	},
+	{
+		"date": "February 27, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "South Carolina",
+				"delegates": 59,
+				"difference": -0.11,
+				"sanders": 0.445,
+				"clinton": 0.555
+			}
+		]
+	},
+	{
+		"date": "March 1, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Vermont",
+				"delegates": 26,
+				"difference": 0.49,
+				"sanders": 0.745,
+				"clinton": 0.255
+			},
+			{
+				"state": "Minnesota",
+				"delegates": 93,
+				"difference": 0.17,
+				"sanders": 0.585,
+				"clinton": 0.415
+			},
+			{
+				"state": "Colorado",
+				"delegates": 79,
+				"difference": 0.13,
+				"sanders": 0.565,
+				"clinton": 0.435
+			},
+			{
+				"state": "Massachusetts",
+				"delegates": 116,
+				"difference": 0.11,
+				"sanders": 0.555,
+				"clinton": 0.445
+			},
+			{
+				"state": "Oklahoma",
+				"delegates": 42,
+				"difference": 0.02,
+				"sanders": 0.51,
+				"clinton": 0.49
+			},
+			{
+				"state": "Tennessee",
+				"delegates": 76,
+				"difference": -0.02,
+				"sanders": 0.48,
+				"clinton": 0.52
+			},
+			{
+				"state": "Virginia",
+				"delegates": 110,
+				"difference": -0.09,
+				"sanders": 0.455,
+				"clinton": 0.545
+			},
+			{
+				"state": "Arkansas",
+				"delegates": 37,
+				"difference": -0.20,
+				"sanders": 0.4,
+				"clinton": 0.6
+			},
+			{
+				"state": "Texas",
+				"delegates": 252,
+				"difference": -0.20,
+				"sanders": 0.4,
+				"clinton": 0.6
+			},
+			{
+				"state": "Georgia",
+				"delegates": 116,
+				"difference": -0.24,
+				"sanders": 0.38,
+				"clinton": 0.62
+			},
+			{
+				"state": "Alabama",
+				"delegates": 60,
+				"difference": -0.27,
+				"sanders": 0.365,
+				"clinton": 0.635
+			}
+		]
+	},
+	{
+		"date": "March 5, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Kansas",
+				"delegates": 37,
+				"difference": 0.13,
+				"sanders": 0.565,
+				"clinton": 0.435
+			},
+			{
+				"state": "Nebraska",
+				"delegates": 30,
+				"difference": 0.11,
+				"sanders": 0.555,
+				"clinton": 0.445
+			},
+			{
+				"state": "Louisiana",
+				"delegates": 58,
+				"difference": -0.22,
+				"sanders": 0.39,
+				"clinton": 0.61
+			}
+		]
+	},
+	{
+		"date": "March 6, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Maine",
+				"delegates": 30,
+				"difference": 0.27,
+				"sanders": 0.635,
+				"clinton": 0.365
+			}
+		]
+	},
+	{
+		"date": "March 8, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Michigan",
+				"delegates": 148,
+				"difference": 0.11,
+				"sanders": 0.555,
+				"clinton": 0.445
+			},
+			{
+				"state": "Mississippi",
+				"delegates": 41,
+				"difference": -0.32,
+				"sanders": 0.34,
+				"clinton": 0.66
+			}
+		]
+	},
+	{
+		"date": "March 15, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Missiouri",
+				"delegates": 84,
+				"difference": 0.04,
+				"sanders": 0.52,
+				"clinton": 0.48
+			},
+			{
+				"state": "North Carolina",
+				"delegates": 121,
+				"difference": 0,
+				"sanders": 0.50,
+				"clinton": 0.50
+			},
+			{
+				"state": "Ohio",
+				"delegates": 159,
+				"difference": -0.02,
+				"sanders": 0.49,
+				"clinton": 0.51
+			},
+			{
+				"state": "Illinios",
+				"delegates": 182,
+				"difference": -0.03,
+				"sanders": 0.485,
+				"clinton": 0.515
+			},
+			{
+				"state": "Florida",
+				"delegates": 246,
+				"difference": -0.15,
+				"sanders": 0.425,
+				"clinton": 0.575
+			}
+		]
+	},
+	{
+		"date": "March 22, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Idaho",
+				"delegates": 27,
+				"difference": 0.24,
+				"sanders": 0.62,
+				"clinton": 0.38
+			},
+			{
+				"state": "Utah",
+				"delegates": 37,
+				"difference": 0.14,
+				"sanders": 0.57,
+				"clinton": 0.43
+			},
+			{
+				"state": "Arizona",
+				"delegates": 85,
+				"difference": 0.09,
+				"sanders": 0.545,
+				"clinton": 0.455
+			}
+		]
+	},
+	{
+		"date": "March 26, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Alaska",
+				"delegates": 20,
+				"difference": 0.27,
+				"sanders": 0.635,
+				"clinton": 0.365
+			},
+			{
+				"state": "Washington",
+				"delegates": 118,
+				"difference": 0.21,
+				"sanders": 0.605,
+				"clinton": 0.395
+			},
+			{
+				"state": "Hawaii",
+				"delegates": 34,
+				"difference": 0.14,
+				"sanders": 0.57,
+				"clinton": 0.43
+			}
+		]
+	},
+	{
+		"date": "April 5, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Wisconsin",
+				"delegates": 96,
+				"difference": 0.18,
+				"sanders": 0.59,
+				"clinton": 0.41
+			}
+		]
+	},
+	{
+		"date": "April 9, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Wyoming",
+				"delegates": 18,
+				"difference": 0.21,
+				"sanders": 0.605,
+				"clinton": 0.395
+			}
+		]
+	},
+	{
+		"date": "April 19, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "New York",
+				"delegates": 291,
+				"difference": 0.05,
+				"sanders": 0.525,
+				"clinton": 0.475
+			}
+		]
+	},
+	{
+		"date": "April 26, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Connecticut",
+				"delegates": 70,
+				"difference": 0.11,
+				"sanders": 0.555,
+				"clinton": 0.445
+			},
+			{
+				"state": "Rhode Island",
+				"delegates": 33,
+				"difference": 0.08,
+				"sanders": 0.54,
+				"clinton": 0.46
+			},
+			{
+				"state": "Pennsylvania",
+				"delegates": 210,
+				"difference": 0.03,
+				"sanders": 0.515,
+				"clinton": 0.485
+			},
+			{
+				"state": "Delaware",
+				"delegates": 31,
+				"difference": 0,
+				"sanders": 0.5,
+				"clinton": 0.5
+			},
+			{
+				"state": "Maryland",
+				"delegates": 118,
+				"difference": -0.07,
+				"sanders": 0.465,
+				"clinton": 0.535
+			}
+		]
+	},
+	{
+		"date": "May 3, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Indiana",
+				"delegates": 92,
+				"difference": 0.06,
+				"sanders": 0.53,
+				"clinton": 0.47
+			}
+		]
+	},
+	{
+		"date": "May 10, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "West Virginia",
+				"delegates": 34,
+				"difference": 0.11,
+				"sanders": 0.555,
+				"clinton": 0.445
+			}
+		]
+	},
+	{
+		"date": "May 17, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Oregon",
+				"delegates": 73,
+				"difference": 0.33,
+				"sanders": 0.665,
+				"clinton": 0.335
+			},
+			{
+				"state": "Kentucky",
+				"delegates": 61,
+				"difference": -0.02,
+				"sanders": 0.49,
+				"clinton": 0.51
+			}
+		]
+	},
+	{
+		"date": "June 7, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "Montana",
+				"delegates": 27,
+				"difference": 0.32,
+				"sanders": 0.66,
+				"clinton": 0.34
+			},
+			{
+				"state": "South Dakota",
+				"delegates": 25,
+				"difference": 0.15,
+				"sanders": 0.575,
+				"clinton": 0.425
+			},
+			{
+				"state": "North Dakota",
+				"delegates": 23,
+				"difference": 0.13,
+				"sanders": 0.565,
+				"clinton": 0.435
+			},
+			{
+				"state": "New Mexico",
+				"delegates": 43,
+				"difference": 0.04,
+				"sanders": 0.52,
+				"clinton": 0.48
+			},
+			{
+				"state": "California",
+				"delegates": 546,
+				"difference": -0.02,
+				"sanders": 0.49,
+				"clinton": 0.51
+			},
+			{
+				"state": "New Jersey",
+				"delegates": 142,
+				"difference": -0.07,
+				"sanders": 0.465,
+				"clinton": 0.535
+			}
+		]
+	},
+	{
+		"date": "June 14, 2016 00:00:00 GMT-0800",
+		"states": [
+			{
+				"state": "District of Columbia",
+				"delegates": 46,
+				"difference": -0.28,
+				"sanders": 0.36,
+				"clinton": 0.64
+			}
+		]
+	}
+]

@@ -1,0 +1,23 @@
+var delegateClintonLeadDeltaData = [
+	['Date', 'Delegate Difference'],
+	[new Date('February 1, 2016 00:00:00 GMT-0800'), 1],
+	[new Date('February 9, 2016 00:00:00 GMT-0800'), 9],
+	[new Date('February 20, 2016 00:00:00 GMT-0800'), 4],
+	[new Date('February 27, 2016 00:00:00 GMT-0800'), -5],
+	[new Date('March 1, 2016 00:00:00 GMT-0800'), -118],
+	[new Date('March 5, 2016 00:00:00 GMT-0800'), -129],
+	[new Date('March 6, 2016 00:00:00 GMT-0800'), -121],
+	[new Date('March 8, 2016 00:00:00 GMT-0800'), -128],
+	[new Date('March 15, 2016 00:00:00 GMT-0800'), -210],
+	[new Date('March 22, 2016 00:00:00 GMT-0800'), -197],
+	[new Date('March 26, 2016 00:00:00 GMT-0800'), -171],
+	[new Date('April 5, 2016 00:00:00 GMT-0800'), -159],
+	[new Date('April 9, 2016 00:00:00 GMT-0800'), -157],
+	[new Date('April 19, 2016 00:00:00 GMT-0800'), -156],
+	[new Date('April 26, 2016 00:00:00 GMT-0800'), -170],
+	[new Date('May 3, 2016 00:00:00 GMT-0800'), -170],
+	[new Date('May 10, 2016 00:00:00 GMT-0800'), -168],
+	[new Date('May 17, 2016 00:00:00 GMT-0800'), -152],
+	[new Date('June 7, 2016 00:00:00 GMT-0800'), -196],
+	[new Date('June 14, 2016 00:00:00 GMT-0800'), -212]
+]

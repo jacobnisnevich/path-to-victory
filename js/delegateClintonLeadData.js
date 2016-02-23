@@ -1,0 +1,23 @@
+var delegateClintonLeadData = [
+	['Date', 'Sanders Delegates', 'Clinton Delegates'],
+	[new Date('February 1, 2016 00:00:00 GMT-0800'), 26, 25],
+	[new Date('February 9, 2016 00:00:00 GMT-0800'), 46, 37],
+	[new Date('February 20, 2016 00:00:00 GMT-0800'), 65, 61],
+	[new Date('February 27, 2016 00:00:00 GMT-0800'), 90, 95],
+	[new Date('March 1, 2016 00:00:00 GMT-0800'), 537, 655],
+	[new Date('March 5, 2016 00:00:00 GMT-0800'), 594, 723],
+	[new Date('March 6, 2016 00:00:00 GMT-0800'), 613, 734],
+	[new Date('March 8, 2016 00:00:00 GMT-0800'), 704, 832],
+	[new Date('March 15, 2016 00:00:00 GMT-0800'), 1059, 1269],
+	[new Date('March 22, 2016 00:00:00 GMT-0800'), 1140, 1337],
+	[new Date('March 26, 2016 00:00:00 GMT-0800'), 1239, 1410],
+	[new Date('April 5, 2016 00:00:00 GMT-0800'), 1293, 1452],
+	[new Date('April 9, 2016 00:00:00 GMT-0800'), 1303, 1460],
+	[new Date('April 19, 2016 00:00:00 GMT-0800'), 1449, 1605],
+	[new Date('April 26, 2016 00:00:00 GMT-0800'), 1673, 1843],
+	[new Date('May 3, 2016 00:00:00 GMT-0800'), 1719, 1889],
+	[new Date('May 10, 2016 00:00:00 GMT-0800'), 1737, 1905],
+	[new Date('May 17, 2016 00:00:00 GMT-0800'), 1812, 1964],
+	[new Date('June 7, 2016 00:00:00 GMT-0800'), 2193, 2389],
+	[new Date('June 14, 2016 00:00:00 GMT-0800'), 2208, 2420]
+]
