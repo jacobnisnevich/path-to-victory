@@ -55,19 +55,26 @@ function drawChart(chartTitle, chartType, chartData, chartId, chartOptions) {
 			region: "US", 
 			resolution: "provinces",
 			colorAxis: {
-				colors: ['rgb(220, 57, 18)', 'white', 'rgb(51, 102, 204)'],
+				colors: ['rgb(245, 91, 91)', 'white', 'rgb(8, 126, 215)'],
 				values: [-0.5, 0, 0.5]
+			},
+			backgroundColor: 'transparent',
+			textStyle: { 
+				auraColor: 'none'
 			}
 		};
 		chart = new google.visualization.GeoChart(document.getElementById(chartId));
 	} else if (chartType == "linechart") {
 		options = chartOptions || {
-			title: chartTitle,
 			curveType: 'discrete',
-			legend: { position: 'bottom' }
+			legend: { position: 'bottom' },
+			backgroundColor: 'transparent',
+			textStyle: {
+				auraColor: 'none'
+			}
 		};
 		chart = new google.visualization.LineChart(document.getElementById(chartId));
 	}
 
-	chart.draw(data, options)
+	chart.draw(data, options);
 }
