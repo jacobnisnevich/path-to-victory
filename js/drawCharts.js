@@ -1,6 +1,3 @@
-google.charts.load('current', {'packages':['corechart', 'geochart']});
-google.charts.setOnLoadCallback(drawCharts);
-
 function drawCharts() {
 	// Draw delegateMap
 	drawChart("FiveThirtyEight: Bernie Sanders\' Path to Victory", "geochart", delegateMapData, "delegateMapChart");
